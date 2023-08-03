@@ -23,5 +23,8 @@ Here is a link to the webpage https://frolicking-fairy-d504ff.netlify.app/
 3. React Router - Routing library for handling navigation between pages.
 4. Netlify - Platform used for deploying app. 
 
+# API used
+'https://example-data.draftbit.com/books?_limit=10'
+
 # Author
 This code was written by Lawi Bett.
