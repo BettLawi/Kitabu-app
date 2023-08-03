@@ -22,3 +22,6 @@ Here is a link to the webpage https://frolicking-fairy-d504ff.netlify.app/
 2. Tailwind CSS - CSS framework for styling the app.
 3. React Router - Routing library for handling navigation between pages.
 4. Netlify - Platform used for deploying app. 
+
+# Author
+This code was written by Lawi Bett.
