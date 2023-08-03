@@ -135,16 +135,5 @@ const App = () => {
   );
 };
 
-// const Home = () => {
-//   return (
-//     <div>
-//       <h1 className="text-3xl font-bold mb-4">Welcome to Kitabu App</h1>
-//       <p>
-//         This is the home page of the app. You can use the navigation bar above to
-//         explore the BookList and Favorites.
-//       </p>
-//     </div>
-  // );
-// };
 
 export default App;

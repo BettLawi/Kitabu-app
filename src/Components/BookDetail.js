@@ -1,4 +1,3 @@
-// src/components/BookDetails.js
 import React from 'react';
 import { Link, useParams } from 'react-router-dom';
 
@@ -13,7 +12,7 @@ const BookDetails = ({ books }) => {
   return (
     <div>
       <h1 className="text-3xl font-bold mb-4">{book.title}</h1>
-      <p>Author: {book.author}</p>
+      <p>Author: {book.authors}</p>
       <p>Description: {book.description}</p>
       <Link to="/favorites">Go Back to Favorites</Link>
     </div>
