@@ -15,4 +15,4 @@ Here is a link to the webpage https://frolicking-fairy-d504ff.netlify.app/
 1. Clone the repository through this command 'git clone https://github.com/your-username/bookstore-app.git'
 2. Navigate to the project directory 'cd bookstore-app'
 3. Install the dependencies through 'npm install'
-
+4. Start the development server 'npm start'. This will launch the app in your browser at 'http://localhost:3000'.
