@@ -10,7 +10,7 @@ const BookList = ({ favorites, addToFavorites, removeFromFavorites, openModal, b
             <img
               src={book.image_url}
               alt={book.title}
-              className="w-32 h-40 mb-4 rounded-md object-cover"
+              className="w-full h-40 mb-4 rounded-md object-cover"
             />
             <div className="flex items-center justify-between">
               <div>
