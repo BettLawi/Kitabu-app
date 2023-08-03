@@ -16,3 +16,9 @@ Here is a link to the webpage https://frolicking-fairy-d504ff.netlify.app/
 2. Navigate to the project directory 'cd bookstore-app'
 3. Install the dependencies through 'npm install'
 4. Start the development server 'npm start'. This will launch the app in your browser at 'http://localhost:3000'.
+
+# Technologies Used
+1. React - A Javascript library for building user interfaces and components.
+2. Tailwind CSS - CSS framework for styling the app.
+3. React Router - Routing library for handling navigation between pages.
+4. Netlify - Platform used for deploying app. 
