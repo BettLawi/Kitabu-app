@@ -9,6 +9,7 @@ function Home() {
         alt="Welcome"
         className="w-64 h-64 rounded-full object-cover"
       />
+      <h2 className="text-xl font-bold mt-4">Click here to view a list of available books</h2>
       <Link to="/booklist" className="mt-4 text-blue-600">
         View Book List
       </Link>
