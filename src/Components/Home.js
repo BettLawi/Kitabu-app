@@ -9,9 +9,9 @@ function Home() {
         alt="Welcome"
         className="w-64 h-64 rounded-full object-cover"
       />
-      {/* <Link to="/booklist" className="mt-4 text-blue-600">
+      <Link to="/booklist" className="mt-4 text-blue-600">
         View Book List
-      </Link> */}
+      </Link>
     </div>
   )
 }
